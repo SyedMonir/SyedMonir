@@ -1,4 +1,4 @@
-## Hi there, I'm [Syed Monirul Alam][website] 👋 
+## Hi there, I'm Syed Monirul Alam!
 
 
 
@@ -15,8 +15,8 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syed-monirul/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/SyedMoonir)
-<!-- [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/dvlprAlamin) -->
-<!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@dvlprAlamin) -->
+<!-- [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https:) -->
+<!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https:) -->
 
 
 <br />
@@ -62,18 +62,18 @@
 ---
 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="" />
 
-</details>
+</details> -->
 
 
 [linkedin]: https://www.linkedin.com/in/syed-monirul/
-[webdevplaylist]: 
+<!-- [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
 [reactplaylist]:
-[website]:
+[website]: -->
 # SyedMonir
