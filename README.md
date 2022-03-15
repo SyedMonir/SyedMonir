@@ -1,7 +1,3 @@
-## Hi there, I'm Syed Monirul Alam!
-
-
-
 ## I'm a  Developer and Good Learner!!
 
 - 🌱 I’m currently learning React 
