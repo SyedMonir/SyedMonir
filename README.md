@@ -1,5 +1,7 @@
 ## :mailbox: Reach me out
 
+=======
+
 <br />
 
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/syed-monirul/)
@@ -10,7 +12,7 @@
 
 ## :eyes: Current overview
 
-- ### 🌱 I’m currently learning Next.js.
+- ### 🌱 I’m currently learning Next.js
 - ### 👯 I’m looking to collaborate on open source projects.
 - ### 🤔 I’m looking for Job.
 
