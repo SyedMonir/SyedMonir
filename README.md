@@ -1,79 +1,35 @@
-## Hi there, I'm Syed Monirul Alam!
-
-
-
-## I'm a  Developer and Good Learner!!
-
-- 🌱 I’m currently learning React 
-<!-- - 👯 I’m looking to collaborate with other  -->
-- 🥅 2022 Goals: Contribute more to Open Source projects
-<!-- - ⚡ Fun fact: I love to  play games -->
-
-### Connect with me:
-
-<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syed-monirul/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/SyedMoonir)
-<!-- [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https:) -->
-<!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https:) -->
-
+## :mailbox: Reach me out
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co/g7xQSGY/css3.png" />
-
-<img align="left" alt="Scss" width="26px" src="https://i.ibb.co/v3Sy8YW/scss.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co/XLLvh3f/js.png" />
-
-<img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
-
-<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
-
-<img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
-
-<!-- <img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" /> -->
-
-<!-- <img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" /> -->
-
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" /> -->
-
-<img align="left" alt="react bootstrap" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" />
-
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/bby50xs/redux.png" /> -->
-
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" /> -->
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
-
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/7zs2TGW/git.png" />
-
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/fXQQ273/c.png" /> -->
-
-<br />
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/syed-monirul/)
+[<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/SyedMoonir/a)
 <br />
 
+<br />
 
----
+## :eyes: Current overview
 
+- ### 🌱 I’m currently learning Next.js.
+- ### 👯 I’m looking to collaborate on open source projects.
+- ### 🤔 I’m looking for Job.
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
+## :computer: Technologies that I know
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="" />
-
-</details> -->
-
-
-[linkedin]: https://www.linkedin.com/in/syed-monirul/
-<!-- [webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]:
-[website]: -->
-# SyedMonir
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> 
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+</p>
+<br/>
